@@ -22,6 +22,6 @@
         "text-on-gif": "^2.0.0"
     },
     "devDependencies": {
-        "node": "^16.10.0"
+        "node": "^16.15.0"
     }
 }
